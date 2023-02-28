@@ -61,7 +61,7 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 * Number of adverbs: 1540 (2.32 %)
 
 
-### Stadistics of tokens
+### Stadistics
 
 Uncertainties provided by a coverage factor k=1 within the standard deviation of the population of definitions.
 
