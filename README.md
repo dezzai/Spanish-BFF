@@ -93,7 +93,7 @@ This version have been not postprocessed to mitigate potential errors, biases or
 ### Licensing information
 ???
 
-### Citation Information
+### Citation 
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2302.12746,
@@ -114,5 +114,3 @@ This version have been not postprocessed to mitigate potential errors, biases or
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
-
-### Contributions 
