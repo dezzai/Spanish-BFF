@@ -56,16 +56,20 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 
 ### Number of nouns, adjetives, adverbs and verbs
 
-* Number of nouns: ???
-* Number of adjetives: ???
-* Number of adverbs: ???
-* Number of verbs: ???
+* Number of nouns: 38093 (57.41 %)
+* Number of adjetives: 17424 (26.26 %)
+* Number of verbs: 9296 (14.01 %)
+* Number of adverbs: 1540 (2.32 %)
 
 
-### Stadistics of tokens
+### Statistics
+
+Uncertainties provided by a coverage factor k=1 within the standard deviation of the population of definitions.
 
 * Total tokens in definitions: ???
 * Average tokens/definition: ???
+* Average words/definition: 8.5 +/- 5.1 words
+* Average characters/definitions: 49.1 +/- 28.4 characters
 
 
 ## Dataset Creation
@@ -81,8 +85,7 @@ Generate in Spanish a definition of the word "[word]"
 
 ### Social Impact of Dataset
 
-This corpus is the first open-source complete dictionary produced by LLMs. We intend to contribute to a better un-
-derstanding and development of NLP and promote responsible use. 
+This corpus is the first open-source complete dictionary produced by LLMs. We intend to contribute to a better understanding and development of NLP and promote responsible use. 
 
 ### Biases and Hallucinations
 
