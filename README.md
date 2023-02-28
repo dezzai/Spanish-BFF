@@ -61,7 +61,7 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 * Number of verbs: ???
 
 
-### Estadistics of tokens
+### Stadistics of tokens
 
 * Total tokens in definitions: ???
 * Average tokens/definition: ???
