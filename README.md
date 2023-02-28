@@ -7,7 +7,7 @@ Avaliable in Hugging Face https://huggingface.co/datasets/MMG/SpanishBFF
 
 Spanish-BFF is the first Spanish AI-generated dictionary using GPT3.
 
-- **Paper:** [Spanish Built Factual Freectianary (Spanish-BFF): the first IA-generated free dictionary](https://arxiv.org/abs/2302.12746)
+- **Paper:** [Spanish Built Factual Freectianary (Spanish-BFF): the first AI-generated free dictionary](https://arxiv.org/abs/2302.12746)
 - **Point of Contact:** oscar.garcia@dezzai.com , alfonso.ardoiz@dezzai.com
 
 
@@ -99,11 +99,11 @@ This version have been not postprocessed to mitigate potential errors, biases or
   
   url = {https://arxiv.org/abs/2302.12746},
   
-  author = {Sierra, Óscar García and Ortega-Martín, Miguel and Ardoiz, Alfonso and Armenteros, Juan Carlos and Álvarez, Jorge and Alonso, Adrián},
+  author = {Ortega-Martín, Miguel and García-Sierra, Óscar and Ardoiz, Alfonso and Armenteros, Juan Carlos and Álvarez, Jorge and Alonso, Adrián},
   
   keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
   
-  title = {Spanish Built Factual Freectianary (Spanish-BFF): the first IA-generated free dictionary},
+  title = {Spanish Built Factual Freectianary (Spanish-BFF): the first AI-generated free dictionary},
   
   publisher = {arXiv},
   
