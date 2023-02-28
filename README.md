@@ -2,8 +2,6 @@
 
 Avaliable in Hugging Face https://huggingface.co/datasets/MMG/SpanishBFF
 
-# SQAC (Spanish Question-Answering Corpus)
-
 ## Dataset Description
 
 Spanish-BFF is the first Spanish IA-generated dictionary.
@@ -30,9 +28,9 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 
 <pre>
 {
-	'id': 'b0o8', 
-	'lemma': 'fomo', 
-	'definition': 'FOMO es un acrónimo de "miedo a perderse", y se refiere a la ansiedad que uno puede sentir cuando ve que otros están disfrutando de algo que él o ella no está haciendo.', 
+'id': 'b0o8', 
+'lemma': 'fomo', 
+'definition': 'FOMO es un acrónimo de "miedo a perderse", y se refiere a la ansiedad que uno puede sentir cuando ve que otros están disfrutando de algo que él o ella no está haciendo.', 
 }
 </pre>
 
@@ -65,8 +63,8 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 
 ### Estadistics of tokens
 
-* Total tokens in definitions: 1,561,616
-* Average tokens/definition: 250
+* Total tokens in definitions: ???
+* Average tokens/definition: ???
 
 
 ## Dataset Creation
