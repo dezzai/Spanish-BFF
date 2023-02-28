@@ -1,3 +1,4 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GNU-blue)](https://github.com/dezzai/Spanish-BFF/blob/main/LICENSE)
 # Spanish-BFF
 
 Avaliable in Hugging Face https://huggingface.co/datasets/MMG/SpanishBFF
@@ -88,12 +89,7 @@ derstanding and development of NLP and promote responsible use.
 This version have been not postprocessed to mitigate potential errors, biases or hallucinations the IA model could have generated.
 
 
-## Additional Information
-
-### Licensing information
-???
-
-### Citation 
+## Citation 
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2302.12746,
