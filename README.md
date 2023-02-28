@@ -57,8 +57,8 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 
 * Number of nouns: 38093 (57.41 %)
 * Number of adjetives: 17424 (26.26 %)
-* Number of adverbs: 9296 (14.01 %)
-* Number of verbs: 1540 (2.32 %)
+* Number of verbs: 9296 (14.01 %)
+* Number of adverbs: 1540 (2.32 %)
 
 
 ### Stadistics of tokens
