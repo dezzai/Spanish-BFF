@@ -4,7 +4,7 @@ Avaliable in Hugging Face https://huggingface.co/datasets/MMG/SpanishBFF
 
 ## Dataset Description
 
-Spanish-BFF is the first Spanish IA-generated dictionary.
+Spanish-BFF is the first Spanish AI-generated dictionary using GPT3.
 
 - **Paper:** [Spanish Built Factual Freectianary (Spanish-BFF): the first IA-generated free dictionary](https://arxiv.org/abs/2302.12746)
 - **Point of Contact:** oscar.garcia@dezzai.com , alfonso.ardoiz@dezzai.com
