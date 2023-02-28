@@ -66,9 +66,8 @@ These lemmas correspond to nominal, adjetival, verbal and adverbial classes.
 
 Uncertainties provided by a coverage factor k=1 within the standard deviation of the population of definitions.
 
-* Total tokens in definitions: ???
-* Average tokens/definition: ???
-* Average words/definition: 8.5 +/- 5.1 words
+* Total words in definitions: 551878
+* Average words/definition: 8.3 +/- 5.1 words
 * Average characters/definitions: 49.1 +/- 28.4 characters
 
 
@@ -89,7 +88,7 @@ This corpus is the first open-source complete dictionary produced by LLMs. We in
 
 ### Biases and Hallucinations
 
-This version have been not postprocessed to mitigate potential errors, biases or hallucinations the IA model could have generated.
+This version have been not postprocessed to mitigate potential errors, biases or hallucinations the AI model could have generated.
 
 
 ## Citation 
