@@ -88,7 +88,7 @@ This corpus is the first open-source complete dictionary produced by LLMs. We in
 
 ### Biases and Hallucinations
 
-This version have been not postprocessed to mitigate potential errors, biases or hallucinations the AI model could have generated.
+This version has not been postprocessed to mitigate potential errors, biases or hallucinations the AI model could have generated.
 
 
 ## Citation 
